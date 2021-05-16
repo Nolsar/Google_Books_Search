@@ -1,9 +1,9 @@
 {
-  "name": "google-books",
+  "name": "mern",
   "version": "0.1.0",
-  "description": "Google Books",
+  "description": "Google Books Search",
   "private": true,
-  "proxy": "http://localhost:3001/",
+  "proxy": "http://localhost:3001",
   "dependencies": {
     "axios": "^0.21.1",
     "react": "^16.13.1",
