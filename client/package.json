@@ -4,6 +4,9 @@
   "description": "Google Books Search",
   "private": true,
   "proxy": "http://localhost:3001",
+  "engines": {
+    "node": "14.15.4"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "react": "^16.13.1",
